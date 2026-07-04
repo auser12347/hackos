@@ -1,6 +1,9 @@
 # hackOS
 A joke distro I made for fun
 
+## Table of contents
+1. [About](https://github.com/auser12347/hackos#about)
+
 ## About
 hackOS is a joke distro which you can install to troll your friends, classmates, coworkers and even President Donald Trump 😂
 
