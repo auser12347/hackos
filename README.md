@@ -25,13 +25,14 @@ hackOS is **NOT affiliated with Debian or any of its official projects.**
 hackOS has its own "shell", which is called hacksh. It does not execute commands like most normal shells do, btw.
 
 Right now, hackOS has only these available commands:
-- fetch
-- hack
-- matrix
-- version
-- command
-- credit
-- exit
+- `fetch`
+- `hack`
+- `matrix`
+- `version`
+- `command`
+- `credit`
+- `exit`
+
 If you want to give some suggestions on new commands, please open a new issue.
 
 ## Screenshots
