@@ -9,6 +9,7 @@ A joke distro I made for fun
 5. [Device specifications](#device-specifications)
 6. [Downloading](#downloading)
 7. [Installing](#installing-experimental)
+8. [Bug report](#bug-report)
 
 ## About
 hackOS is a joke distro which you can install to troll your friends, classmates, coworkers and even President Donald Trump 😂
@@ -84,3 +85,8 @@ Configurations:
 Follow the order: 5 (optional) - 2 - 1 - 3 - 4 - 7
 
 Wait patiently and see your VM cry :)
+
+## Bug report
+If you encounter a bug, please report it by opening a new issue.
+
+See [here](https://github.com/auser12347/hackos/BUGS.md) for some bugs you might encounter.
