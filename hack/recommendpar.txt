@@ -1,0 +1,6 @@
+An ideal partition setup will be:
+ 1. At least 500MB for EFI partition
+ 2. At least 5GB for root partition
+ 3. GPT disk partition table
+
+Right now (and probably never), the guided installation isn't implemented yet as I'm kindof lazy to do that :)

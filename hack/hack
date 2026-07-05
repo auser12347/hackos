@@ -1,0 +1,36 @@
+#!/bin/bash
+echo -n "[WARNING] Are you sure you want to hack $(cat /tmp/hacktarget )? [y/n] >>"
+read answer
+case "$answer" in
+	y)
+		sleep 2
+		echo "[*] Sending ping to target..."
+		if ! ping -c 1 1.1.1.1 >/dev/null 2>&1; then
+			echo "[ERROR] Could not connect to network. Please use 'network' to connect to Wi-Fi."
+			break
+		fi
+		sleep 2
+		echo "[*] Acquiring IP address..."
+		sleep 1
+		for i in {1..10}; do
+			export ipaddress="192.168.$((RANDOM%255)).$((RANDOM%255))"
+		done
+		echo "$ipaddress"
+		echo "[*] Establishing connection..."
+		sleep 3
+		echo "[*] Shutting down local servers..."
+		sleep 8
+		echo "[*] Activating spyware..."
+		sleep 0.1
+		echo "[*] [childprocess:SPY] Downloading spyware to target..."
+		echo "[*] [childprocess:SPY] Disabling and removing all antiviruses..."
+		sleep 12
+		echo "[*] [childprocess:SPY] Executing ..."
+		echo "[*] Checking state..."
+		echo "[STATE] Device is in your control."
+		echo "Done."
+		;;
+	*)
+		echo "Aborting..."
+		;;		
+esac
