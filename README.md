@@ -7,7 +7,8 @@ A joke distro I made for fun
 3. [Screenshots](#screenshots)
 4. [Features](#features)
 5. [Device specifications](#device-specifications)
-6. [Download and install](#download-and-install)
+6. [Downloading](#downloading)
+7. [Installing](#installing-experimental)
 
 ## About
 hackOS is a joke distro which you can install to troll your friends, classmates, coworkers and even President Donald Trump 😂
@@ -52,3 +53,34 @@ An ideal partitioning setup looks like this:
 Download the ISO file at [this link](https://sourceforge.net/projects/hackosha/files/). Recommended choosing UEFI version.
 
 You can either use the live version or install it on your computer using the `Installer.sh` on the desktop.
+
+## Downloading
+Download the ISO file at [this link](https://sourceforge.net/projects/hackosha/files>
+
+## Installing (EXPERIMENTAL!!)
+Right now, the installer is experimental and won't work correctly. Use it **at your own risk**. I am **not** responsible for any errors that occur during the installation.
+
+The interface looks like this:
+```
+======= HACKOS INSTALLER =======
+
+Welcome to hackOS installer.
+Please choose an option:
+ 1. Show lsblk
+ 2. Open GParted
+ 3. Choose root partition
+ 4. Choose EFI partition
+ 5. Recommended partition setup
+ 6. Exit
+ 7. Proceed
+
+------
+
+Configurations:
+ Root partition:
+ Efi partition:
+>>
+```
+Follow the order: 5 (optional) - 2 - 1 - 3 - 4 - 7
+
+Wait patiently and see your VM cry :)
