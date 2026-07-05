@@ -89,4 +89,4 @@ Wait patiently and see your VM cry :)
 ## Bug report
 If you encounter a bug, please report it by opening a new issue.
 
-See [here]([https://github.com/auser12347/hackos/BUGS.md](https://github.com/auser12347/hackos/blob/main/BUGS.md)) for some bugs you might encounter.
+See [here](https://github.com/auser12347/hackos/blob/main/BUGS.md) for some bugs you might encounter.
