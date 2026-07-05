@@ -3,9 +3,9 @@ A joke distro I made for fun
 
 ## Table of contents
 1. [About](#about)
-2. [WARNING](#warning)
-3. [Features](#features)
-4. [Screenshots](#screenshots)
+2. [Warning](#warning)
+3. [Screenshots](#screenshots)
+4. [Features](#features)
 5. [Device specifications](#device-specifications)
 6. [Download and install](#download-and-install)
 
@@ -21,6 +21,11 @@ If you choose to install or use it on real hardware, you do so entirely at your 
 
 hackOS is **NOT affiliated with Debian or any of its official projects.**
 
+## Screenshots
+| ![](screenshot/1.png) | ![](screenshot/2.png) |
+|---|---|
+| ![](screenshot/3.png) | ![](screenshot/4.png) |
+
 ## Features
 hackOS has its own "shell", which is called hacksh. It does not execute commands like most normal shells do, btw.
 
@@ -34,9 +39,6 @@ Right now, hackOS has only these available commands:
 - `exit`
 
 If you want to give some suggestions on new commands, please open a new issue.
-
-## Screenshots
-not yet
 
 ## Device specifications 
 If your computer works, this thing will work. Still, at least 1GB of RAM is recommended for a smooth experience.
