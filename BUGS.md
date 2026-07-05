@@ -1,4 +1,4 @@
-# Bugs you might ecounter while using hackOS
+# Bugs you might encounter while using hackOS
 Here are some bugs that might jump onto your face while you use hackOS.
 ## Installer not working as expected
 As I said, this is **EXPERIMENTAL**. Some parts of the installation process is messed up, so, please, for God's sake, **do *NOT* touch it.**
