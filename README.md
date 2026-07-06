@@ -50,13 +50,8 @@ An ideal partitioning setup looks like this:
 - An EFI partition with at least 512MB (for EFI systems)
 - A root (/) partition with at least 5GB
 
-## Download and install
-Download the ISO file at [this link](https://sourceforge.net/projects/hackosha/files/). Recommended choosing UEFI version.
-
-You can either use the live version or install it on your computer using the `Installer.sh` on the desktop.
-
 ## Downloading
-Download the ISO file at [this link](https://sourceforge.net/projects/hackosha/files>
+Download the ISO file at [this link](https://sourceforge.net/projects/hackosha/files)
 
 ## Installing (EXPERIMENTAL!!)
 Right now, the installer is experimental and won't work correctly. Use it **at your own risk**. I am **not** responsible for any errors that occur during the installation.
